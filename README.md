@@ -1,4 +1,4 @@
-# NAS Dashboard v1.2.1
+# Kalra Inno Tech Pvt Ltd
 
 ### Description
 -----------------
@@ -34,7 +34,7 @@ Before you begin, ensure you have the following installed:
 
 ### Installation
 -----------------
-###### To get started with the NAS Dashboard, follow the instructions below:
+###### To get started with the project, follow the instructions below:
 
 1. Clone the repository:
 ```bash
